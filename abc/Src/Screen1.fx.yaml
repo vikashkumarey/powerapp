@@ -6,3 +6,16 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Button2 As button:
+        Text: ="Button"
+        X: =840
+        Y: =64
+        ZIndex: =2
+
+    Label1 As label:
+        Height: =36
+        Text: ="Text"
+        X: =486
+        Y: =64
+        ZIndex: =3
+
